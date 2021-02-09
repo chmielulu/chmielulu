@@ -10,7 +10,7 @@
 ### Some of my projects that can not be open
 - [Gorsk.pl](https://gorsk.pl/) (Gatsby, TypeScript) 
 
-*Effects in Three.JS come from [this repository](https://github.com/Aqro/gooey-hover-codrops). I removed the unnecessary things and rewrote it to the new API, Typescript*
+*Effects in Three.JS come from [this repository](https://github.com/Aqro/gooey-hover-codrops). I removed the unnecessary things and rewrote it to the new GSAP API, Typescript, React refs*
 - [Villa Kwiatowa](https://villakwiatowa.rendpro.com/) (Gatsby, JavaScript)
 - [Rend Pro](https://rendpro.com/) (Gatsby, JavaScript)
 
