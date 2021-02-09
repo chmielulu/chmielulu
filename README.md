@@ -11,4 +11,4 @@
 - [Villa Kwiatowa](https://villakwiatowa.rendpro.com/) (Gatsby, JavaScript)
 - [Rend Pro](https://rendpro.com/) (Gatsby, JavaScript)
 
-All 3D visualizations were created by my friend [Aleksander Gadomski](https://aleksandergadomski.pl)
+All 3D visualizations from `gorsk.pl` were created by my friend [Aleksander Gadomski](https://aleksandergadomski.pl)
