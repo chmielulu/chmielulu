@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I'm 17 👦 From a long time I use Linux 🐧 I love running 🏃
 
 ### Some of my projects that can not be open
-- [Gorsk.pl](https://gorsk.pl/)
-- [Villa Kwiatowa](https://villakwiatowa.rendpro.com/)
-- [Rend Pro](https://rendpro.com/)
+- [Gorsk.pl](https://gorsk.pl/) (Gatsby, TypeScript)
+- [Villa Kwiatowa](https://villakwiatowa.rendpro.com/) (Gatsby, JavaScript)
+- [Rend Pro](https://rendpro.com/) (Gatsby, JavaScript)
