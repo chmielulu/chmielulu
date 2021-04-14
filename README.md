@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm 17 👦 From a long time I use Linux 🐧 I love running 🏃
 
 ### Some of my projects that can not be open
-- [Diamentowe Zacisze](https:/diamentowezacisze.pl/) (Gatsby, TypeScript)
+- [Diamentowe Zacisze](https://diamentowezacisze.pl/) (Gatsby, TypeScript)
 - [Gorsk.pl](https://gorsk.rendpro.com/) (Gatsby, TypeScript) 
 
 *Effects in Three.JS come from [this repository](https://github.com/Aqro/gooey-hover-codrops). I removed the unnecessary things and rewrote it to the new GSAP API, Typescript, React refs*
