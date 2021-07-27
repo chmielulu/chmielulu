@@ -14,5 +14,3 @@
 *Effects in Three.JS come from [this repository](https://github.com/Aqro/gooey-hover-codrops). I removed the unnecessary things and rewrote it to the new GSAP API, Typescript, React refs*
 - [Villa Kwiatowa](https://villakwiatowa.rendpro.com/) (Gatsby, JavaScript)
 - [Rend Pro](https://rendpro.com/) (Gatsby, JavaScript)
-
-All 3D visualizations from `gorsk.pl` were created by my friend [Aleksander Gadomski](https://aleksandergadomski.pl)
