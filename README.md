@@ -7,6 +7,7 @@
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
 ### Some of my projects that can not be open
+- [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
 - [Diamentowe Zacisze](https://diamentowezacisze.pl/) (Gatsby, TypeScript)
 - [Gorsk.pl](https://gorsk.rendpro.com/) (Gatsby, TypeScript) 
 
