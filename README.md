@@ -14,4 +14,5 @@
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=web-application)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=server)](https://github.com/anuraghazra/github-readme-stats)
