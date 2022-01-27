@@ -13,3 +13,5 @@
 - [Time4house](https://time4house.com/) (Gatsby, TypeScript)
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
