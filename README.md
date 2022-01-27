@@ -6,6 +6,11 @@
 - 👯 I’m looking to collaborate on open-source social media
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=web-application&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=server&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Some of my projects that can not be open
 - [BGK Investment](https://bgkinvestment.pl/) (Gatsby, TypeScript)
 - [Marys Deweloper](https://marysdeweloper.pl/) (Gatsby, TypeScript)
@@ -13,6 +18,3 @@
 - [Time4house](https://time4house.com/) (Gatsby, TypeScript)
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=web-application)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=server)](https://github.com/anuraghazra/github-readme-stats)
