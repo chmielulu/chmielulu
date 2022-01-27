@@ -7,7 +7,7 @@
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=web-application&theme=radical)](https://github.com/messagewith/web-application)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=server&theme=radical)](https://github.com/messagewith/server)
 
 
