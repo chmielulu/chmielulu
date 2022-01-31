@@ -1,6 +1,6 @@
 
 ## Hi there 👋🤩🙄🎉
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu)](https://github.com/anuraghazra/github-readme-stats)
 - 🧑‍💻 I'm the Director of Front-End Development at RendPro Limited and a soldier in the Polish Territorial Defense Forces. 🪖
 - 🔭 I’m currently working in my spare time on open-source social media
 - 🌱 I’m currently learning [Golang](https://go.dev/)
