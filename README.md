@@ -23,6 +23,6 @@
 <table>
   <tr>
     <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=dark"/></td>
-    <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark5"/></td>
+    <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark"/></td>
   </tr>
 </table>
