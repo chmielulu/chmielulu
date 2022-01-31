@@ -20,8 +20,8 @@
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
 
-<table style="border: none">
-  <tr style="border: none">
+<table>
+  <tr>
     <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=dark"/></td>
     <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark5"/></td>
   </tr>
