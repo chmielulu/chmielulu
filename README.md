@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open-source social media
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
-### Messagewith - The open-source social media for everyone
+### [Messagewith](https://github.com/messagewith) - The open-source social media for everyone
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=web-application&theme=radical)](https://github.com/messagewith/web-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=server&theme=radical)](https://github.com/messagewith/server)
 
