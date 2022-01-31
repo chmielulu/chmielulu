@@ -19,10 +19,12 @@
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu)](https://github.com/anuraghazra/github-readme-stats)
+
 <table>
   <tr>
     <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=dark"/></td>
     <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark"/></td>
   </tr>
 </table>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu)](https://github.com/anuraghazra/github-readme-stats)]
+
