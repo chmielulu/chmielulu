@@ -21,8 +21,8 @@
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
 
 <table style="border: none">
-  <tr>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=dark"/></td>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark5"/></td>
+  <tr style="border: none">
+    <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=dark"/></td>
+    <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark5"/></td>
   </tr>
 </table>
