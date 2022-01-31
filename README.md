@@ -19,3 +19,5 @@
 - [Time4house](https://time4house.com/) (Gatsby, TypeScript)
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=radical)
