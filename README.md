@@ -25,4 +25,4 @@
     <td valign="center" style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmielulu&layout=compact&theme=dark"/></td>
   </tr>
 </table>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu)](https://github.com/anuraghazra/github-readme-stats)]
