@@ -7,12 +7,12 @@
 - 👯 I’m looking to collaborate on open-source social media
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
-### [Messagewith](https://github.com/messagewith) - The open-source social media for everyone
+### 💬 [Messagewith](https://github.com/messagewith) - The open-source social media for everyone
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=web-application&theme=radical)](https://github.com/messagewith/web-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=messagewith&repo=server&theme=radical)](https://github.com/messagewith/server)
 
 
-### Some of my projects that can not be open
+### 🔐 Some of my projects that can not be open
 - [BGK Investment](https://bgkinvestment.pl/) (Gatsby, TypeScript)
 - [Marys Deweloper](https://marysdeweloper.pl/) (Gatsby, TypeScript)
 - [Osiedle Zielona Wzgórza](https://osiedlemlawa.pl/) (Gatsby, TypeScript)
