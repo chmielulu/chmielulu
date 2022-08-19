@@ -16,6 +16,8 @@
 - [BGK Investment](https://bgkinvestment.pl/) (Gatsby, TypeScript)
 - [Marys Deweloper](https://marysdeweloper.pl/) (Gatsby, TypeScript)
 - [Osiedle Zielona Wzgórza](https://osiedlemlawa.pl/) (Gatsby, TypeScript)
+- [Spokojna Park](https://spokojnapark.pl) (Gatsby, TypeScript)
+- [Pałacowa Park](https://palacowapark.pl) (Gatsby, TypeScript)
 - [Time4house](https://time4house.com/) (Gatsby, TypeScript)
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Nowa Farma](https://nowa-farma.pl/) (Gatsby, TypeScript)
