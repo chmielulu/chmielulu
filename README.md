@@ -12,7 +12,7 @@
 
 
 ### 🔐 Some of my projects that can not be open
-- [RendPro](https://rend.pro/) (Next.js, TypeScript)
+- [RendPro](https://rend.pro/) (Gatsby, TypeScript)
 - [BGK Investment](https://bgkinvestment.pl/) (Gatsby, TypeScript)
 - [Marys Deweloper](https://marysdeweloper.pl/) (Gatsby, TypeScript)
 - [Osiedle Zielona Wzgórza](https://osiedlemlawa.pl/) (Gatsby, TypeScript)
