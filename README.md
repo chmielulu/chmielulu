@@ -2,8 +2,6 @@
 ## Hi there 👋🤩🙄🎉
 - 🧑‍💻 I'm the Director of Front-End Development at RendPro Limited.
 - 🔭 I’m currently working in my spare time on open-source social media
-- 🌱 I’m currently learning [Golang](https://go.dev/)
-- 👯 I’m looking to collaborate on open-source social media
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
 ### 💬 [Messagewith](https://github.com/messagewith) - The open-source social media for everyone
