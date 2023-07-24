@@ -23,5 +23,4 @@
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
 
 ### 📈 Stats 🚀⚡️
-[![Chmielulu's stats](https://github-readme-stats.vercel.app/api?username=chmielulu&show_icons=true&theme=dark)](https://github.com/chmielulu)
 [![Chmielulu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
