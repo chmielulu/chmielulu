@@ -1,6 +1,6 @@
 
 ## Hi there 👋🤩🙄🎉
-- 🧑‍💻 I'm the Director of Front-End Development at RendPro Limited.
+- 🧑‍💻 I'm a Front-End Development at RendPro Limited.
 - 🔭 I’m currently working in my spare time on open-source social media
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
