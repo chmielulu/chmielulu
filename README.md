@@ -21,6 +21,3 @@
 - [Osiedle pod miastem](https://osiedlepodmiastem.pl/) (Gatsby, TypeScript)
 - [Nowa Farma](https://nowa-farma.pl/) (Gatsby, TypeScript)
 - [Oleńki Park](https://olenkipark.pl/) (Gatsby, TypeScript)
-
-### 📈 Stats 🚀⚡️
-[![Chmielulu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chmielulu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
