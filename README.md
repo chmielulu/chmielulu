@@ -1,5 +1,4 @@
 ## Hi there 👋🤩🙄🎉
-- 🧑‍💻 I'm a Front-End Development at RendPro Limited.
 - 📫 How to reach me: chmielulu#0718 (discord) or jakubchmielewski80@gmail.com
 
 ### 🔐 Some of my projects that can not be open
