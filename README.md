@@ -14,7 +14,7 @@ I'm a Frontend Developer 🚀 passionate about crafting performant and visually 
 
 🔗 **API & data handling**: REST, GraphQL
 
-📦 **CMS solutions**: PayloadCMS, TinaCMS, Strapi, Directus, Ghost, HygraphCMS, DatoCMS
+📦 **CMS solutions**: Payload CMS, TinaCMS, Strapi, Directus, Ghost, Hygraph, DatoCMS
 
 ✨ **Animations**: GSAP, Motion (Previously Framer Motion), Three.js, React Three Fiber
 
